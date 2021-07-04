@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="import" name="Imported Assets" cc_theme_id="import">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+<tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
+</char>
+
+<sound id="random1.mp3" name="Random Sounds 1" subtype="soundeffect" duration="278127" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="generic brands part 2.mp3" name="generic brands part 2" subtype="soundeffect" duration="27552" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="i didn't like the pepsi (dying duck).mp3" name="Dying Duck" subtype="soundeffect" duration="12312" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="GoAnimate_-_SCARY distorted.mp3" name="Scary Distorted" subtype="soundeffect" duration="3369" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="video0.mp3" name="weird noise" subtype="soundeffect" duration="1358" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="GoAnimate_-_SCARY.mp3" name="Scary mp3 lol rosie and lily" subtype="soundeffect" duration="3578" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="bee1.mp3" name="Bee 1" subtype="soundeffect" duration="992" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="rosie and doris come over here.mp3" name="rosie and doris come over here" subtype="soundeffect" duration="5877" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="doris1.mp3" name="Doris 1" subtype="soundeffect" duration="2951" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Handsworth_Grange_Close_16.mp3" name="Handsworth_Grange_Close_16" subtype="soundeffect" duration="65138" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="rockMain 2.mp3" name="rockMain 2" subtype="soundeffect" duration="185444" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="some audio I distorted - bass boosted - g major.mp3" name="some audio I distorted - bass boosted - g major" subtype="soundeffect" duration="105221" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="xperror.mp3" name="xperror" subtype="soundeffect" duration="835" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="xperrordistorted.mp3" name="xperrordistorted" subtype="soundeffect" duration="888" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="yt1s_com - Mr C The Slide Man  ChaCha Slide Official Video.mp3" name="yt1s.com - Mr C The Slide Man  ChaCha Slide Official Video" subtype="soundeffect" duration="254042" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="za_warudo edit1.mp3" name="za_warudo edit1" subtype="soundeffect" duration="4989" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="random recording 1.mp3" name="random recording 1" subtype="soundeffect" duration="83435" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="random recordings 1.mp3" name="random recordings 1" subtype="soundeffect" duration="255191" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="lol7.mp3" name="lol 1" subtype="soundeffect" duration="295028" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="20210415-4_2021_04_15_12_34_03.mp3" name="random thing 1" subtype="soundeffect" duration="400431" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="lol8.mp3" name="lol8" subtype="soundeffect" duration="154253" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="20210415-165259.mp3" name="20210415-165259" subtype="soundeffect" duration="" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="earsets 1.png" name="earsets 1" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="earsets 1.png" name="earsets 1" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="20210422_2021_04_22_19_31_23.mp3" name="20210422_2021_04_22_19_31_23" subtype="soundeffect" duration="356000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="me_names_rooster_ro_991.mp3" name="rooster roosie intro" subtype="soundeffect" duration="4000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="me_will_be_uploading_671.mp3" name="rooster roosie uploads" subtype="soundeffect" duration="4000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="subscribe_to_buzzwoo_148.mp3" name="subscribe to the buzzwoofers (Rooster Roosie)" subtype="soundeffect" duration="4000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="me_will_be_making_an_712.mp3" name="rooster roosie making videos soon" subtype="soundeffect" duration="4000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="me_names_rooster_ro_597.mp3" name="rooster roosie text to speech problem" subtype="soundeffect" duration="10000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="oh_sorry_618.mp3" name="rooster roosie oh sorry" subtype="soundeffect" duration="1000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="yay_yay_yay_yay_we_g_738.mp3" name="rosie got her voice back" subtype="soundeffect" duration="3813" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="20210429_2021_04_29_15_51_10.mp3" name="Weird Door Sound" subtype="soundeffect" duration="6317" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="laugh1.mp3" name="Laugh 1" subtype="soundeffect" duration="1162" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="aaaaaaaahh1.mp3" name="aaaaaaaahh1" subtype="soundeffect" duration="2798" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="deee.mp3" name="deee" subtype="soundeffect" duration="4688" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="2021-05-09 18-48-09.mp3" name="lol2" subtype="soundeffect" duration="131208" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="20210509-1_2021_05_09_19_22_25.mp3" name="lol3" subtype="soundeffect" duration="223270" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="lol4.mp3" name="lol4" subtype="soundeffect" duration="46434" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="yt1s_com - Gooba Instrumental.mp3" name="Gooba Instrumental" subtype="soundeffect" duration="130790" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="EEEEEEEE1.mp3" name="EEEEEEEE 1" subtype="soundeffect" duration="253663" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="weird1.mp3" name="Weird 1" subtype="soundeffect" duration="6000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="weird2.mp3" name="Weird 2" subtype="soundeffect" duration="10000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="weird3.mp3" name="Weird 3" subtype="soundeffect" duration="40000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="rooster_rooooooooooo_121.mp3" name="Rooster Roooooooooooosie" subtype="soundeffect" duration="8000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="lol5.mp3" name="lol5" subtype="soundeffect" duration="61000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="lol6.mp3" name="lol6" subtype="soundeffect" duration="6000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="lol9.mp3" name="lol7" subtype="soundeffect" duration="14000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="bus1.mp3" name="bus1" subtype="soundeffect" duration="253663" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="2-Ae-SmartSys-PTZ-Cams.png" name="Ae SmartSys Cameras 1" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="old rosies background.jpg" name="Old Rosie's Bubble Background" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="old rosies background.jpg" name="Old Rosie's Bubble Background" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+
+</theme>
