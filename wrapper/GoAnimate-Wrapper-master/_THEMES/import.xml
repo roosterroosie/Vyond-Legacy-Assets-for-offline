@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="import" name="Imported Assets" cc_theme_id="import">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+<tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
+</char>
+
+<sound id="GoAnimate_SCARY_distorted.wav" name="Scary Distorted lol rosie" downloadtype="embed" subtype="voiceover" duration="10000" enable="Y" is_premium="N" aid="999999" money="0" sharing="0" />
+<sound id="za_warudo_edit1.mp3" name="ZaWarudoSound lol" downloadtype="embed" subtype="voiceover" duration="6000" enable="Y" is_premium="N" aid="1000000" money="0" sharing="0" />
+<sound id="yt1s_com_thatPOWER.wav" name="weird power thing" downloadtype="embed" subtype="voiceover" duration="100000000" enable="Y" is_premium="N" aid="1000001" money="0" sharing="0" />
+<sound id="daopsdaioasdiewfaksbfkb.wav" name="weird talking lol rosie lily bee" downloadtype="embed" subtype="voiceover" duration="10000" enable="Y" is_premium="N" aid="1000002" money="0" sharing="0" />
+<sound id="emgnkafhfsbksfbikvd.wav" name="lol callue talking" downloadtype="embed" subtype="voiceover" duration="10000" enable="Y" is_premium="N" aid="1000003" money="0" sharing="0" />
+<sound id="yt1s_comChaCha_Slide.mp3" name="cha cha slide" downloadtype="embed" subtype="voiceover" duration="100000000" enable="Y" is_premium="N" aid="1000004" money="0" sharing="0" />
+
+</theme>
